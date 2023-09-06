@@ -12,9 +12,10 @@ This repository contains an Excel dashboard project that visualizes COVID-19 dea
 
 - **Total New Cases and Deaths**: The dashboard displays the total new cases and deaths for each continent, allowing users to track the progression of the pandemic over the specified time frame.
 
+- **Continent Slicer**: Users can filter the data by continent.
+
 - **Date Slicer**: Users can filter the data by date to view trends for specific time periods within 2020 and 2021.
   
-- **Continent Slicer**: Users can filter the data by continent.
 
 ## Data Cleaning
 
